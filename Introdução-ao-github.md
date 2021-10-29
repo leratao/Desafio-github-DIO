@@ -38,7 +38,9 @@
 
   6. git add * - move todos os arquivos novos ou modificados para "staged"
 
-  7. git commit -m "mensagem de descrição do commit"
+  7. git commit -m "mensagem de descrição do commit" - Fazer o commit
+
+  8. git push origin main - Empurrar o arquivo para o repositório remoto.
 
   
 
@@ -80,7 +82,7 @@
 
      
 
-  Em caso de alterações nos arquivos, é necessário sempre seguir passos de add, commit e push para que as alterações sejam publicadas no espaço remoto
+  Em caso de alterações nos arquivos, é necessário sempre seguir passos de add, commit e push para que as alterações sejam publicadas no espaço remoto.
 
   
 
