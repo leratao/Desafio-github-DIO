@@ -16,7 +16,7 @@
 
   cd ..					cd ..		   	 Retrocede 1 nível
 
-  cls			   clear / CTRL+L	 Navegar para um local específico no sistema
+  cls			   clear / CTRL+L	 Limpa o conteúdo do terminal
 
   tab 											autocompletar 
 
@@ -28,15 +28,15 @@
 
   2. Abrir o Git Bash dentro da pasta   
 
-  3. Dar o comando git init - Iniciar um repositório no Git desta pasta
+  3. Dar o comando git init - Este vai iniciar um repositório no Git para esta pasta
 
   4. git config --global user.name "nome"
 
      git config --global user.email "email@email.com"
 
-  5. Criar os arquivos que desejar dentro dessa pasta
+  5. Criar os arquivos que desejar dentro desta pasta
 
-  6. git add * - move todos os arquivos novos ou modificados para "staged"
+  6. git add * ou git add . - move todos os arquivos novos ou modificados para "staged"
 
   7. git commit -m "mensagem de descrição do commit" - Fazer o commit
 
